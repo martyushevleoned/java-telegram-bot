@@ -1,4 +1,4 @@
-package org.example;
+package org.example.bot;
 
 import com.pengrad.telegrambot.TelegramBot;
 import com.pengrad.telegrambot.UpdatesListener;

@@ -1,4 +1,4 @@
-package org.example;
+package org.example.bot;
 
 import com.pengrad.telegrambot.model.Audio;
 import com.pengrad.telegrambot.model.Message;
